@@ -2,6 +2,7 @@
   "name": "CSS3-in-30-days",
   "version": "1.0.0",
   "description": "Starter files for Brad Hussey's CSS3 in 30 days playlist.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
